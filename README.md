@@ -11,7 +11,14 @@ After model being trained and validated, it was evaluated and to avoid bias F1 s
 # Conclusion
 In conclusion, the model exhibits commendable performance, particularly excelling in the identification of 'Banana','Forest', and 'maize'. The macro averages for precision, recall, and F1-score, around 0.90, indicate good overall performance. However, attention to classes with lower F1 scores,
 such as ’Legumes,’ is essential for future enhancements. The weighted averages, influenced by classes with more samples, highlight the model’s effectiveness in handling larger datasets. Despite specific areas for improvement, the project establishes a solid foundation for the application of deep learning in precision agricultural, with promising prospects for further refinement and expansion.
-
+# Reference
+1. J. Dhakshayani, S. S. Kulkarni, A. Mahapatra, B. Surendiran, and M. K. Nath, ‘Weed Classifica-
+tion from Paddy Crops Using Convolutional Neural Network’, in Proceedings of the International
+Conference on Paradigms of Communication, Computing and Data Sciences, M. Dua, A. K. Jain, A.
+Yadav, N. Kumar, and P. Siarry, Eds., in Algorithms for Intelligent Systems. Singapore: Springer,
+2022, pp. 493–507. doi: 10.1007/978-981-16-5747-4
+2. ‘Beginners Guide to VGG16 Implementation in Keras | Built In’. Accessed: Nov. 14, 2023.
+[Online]. Available: https://builtin.com/machine-learning/vgg16
 
 
 
